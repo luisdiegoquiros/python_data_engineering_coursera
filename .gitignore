@@ -128,3 +128,6 @@ data/
 
 # IDE Config files
 .idea/
+
+# Secrets in .env file
+api_key.env
